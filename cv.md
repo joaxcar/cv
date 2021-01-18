@@ -47,37 +47,17 @@ _JAMF, MacOS, Bash, Windows, FileMaker Pro_
 
 ## Utbildning
 
-__Högskoleingengör Datateknik__ 
-Kungliga tekniska högskolan (KTH)
+#### Högskoleingengör datateknik, Kungliga tekniska högskolan (KTH)
 `2018-2021`
 
-__Bachelor i fri konst__
-Konsthögskolan i Oslo(KHIO)
+Utbildning till högskoleingenjör inom datateknik med inriktning mjukvaruutveckling.
+
+#### Bachelor i fri konst, Konsthögskolan i Oslo(KHIO)
 `2011-2014`
 
-__Teknik, nätverk och programmering__
-Thorildsplans Gymnasium
+Högskoleutbildning inom fri konst med personlig inriktning mot måleri. Inkluderar kurser inom filosofi och idehistoria.
+
+#### Teknik: nätverk och programmering, Thorildsplans Gymnasium
 `2003-2006`
 
-## Utbildning
-
-#### Kungliga tekniska högskolan (KTH)
-Högskoleingengör Datateknik
-
-`2018-2021`
-Stockholm, Sverige
-
-
-
-#### Konsthögskolan i Oslo(KHIO)
-`2011-2014`
-Oslo, Norge
-
-Bachelor i fri konst
-
-
-#### Thorildsplans Gymnasium
-`2003-2006`
-Stockholm, Sverige
-
-Teknik med inriktning nätverk och programmering
+Gymnasial utbildning inom teknik med inriktning nätverk och programmering. Inkluderade flera kurser i JAVA och nätverk med Cisco-hårdvara.
