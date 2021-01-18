@@ -47,11 +47,27 @@ _JAMF, MacOS, Bash, Windows, FileMaker Pro_
 
 ## Utbildning
 
-#### Kungliga tekniska högskolan (KTH)
+__Högskoleingengör Datateknik__ 
+Kungliga tekniska högskolan (KTH)
 `2018-2021`
-KTH Stockholm, Sverige
 
+__Bachelor i fri konst__
+Konsthögskolan i Oslo(KHIO)
+`2011-2014`
+
+__Teknik, nätverk och programmering__
+Thorildsplans Gymnasium
+`2003-2006`
+
+## Utbildning
+
+#### Kungliga tekniska högskolan (KTH)
 Högskoleingengör Datateknik
+
+`2018-2021`
+Stockholm, Sverige
+
+
 
 #### Konsthögskolan i Oslo(KHIO)
 `2011-2014`
