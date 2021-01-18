@@ -2,7 +2,7 @@
 Högskoleingenjör inom datateknik
 
 <div id="webaddress">
-<a href="johan.axel.carlsson@gmail.com">johan.axel.carlsson@gmail.com</a>
+<a href="mailto:johan.axel.carlsson@gmail.com">johan.axel.carlsson@gmail.com</a>
 | <a href="https://joaxcar.com">joaxcar.com</a>
 | <a href="https://se.linkedin.com/in/johan-axel-carlsson">LinkedIn</a>
 | <a href="https://github.com/joaxcar">Github</a>
