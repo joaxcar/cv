@@ -17,28 +17,22 @@ Min utbildning fokuserar på mjukvaruutveckling, med kompletterande kurser inom 
 
 ## Erfarenhet
 
-#### Aisle System Sweden AB
-
-`2019-` Stockholm,
-Utvecklare (deltid)
+#### Utvecklare, Aisle System Sweden AB
+`2019-2021 (deltid)`
 	
 Utveckling av backend i GO-lang, frontend i HTML/Javascript/GO-templates samt integration testser in testbiblioteket Cypress.
 
 _GO, Jenkins, Javascript, Git, Linux, Docker_
 
-#### Datorn i utgildningen (Stiftelsen DiU)
-
-`2018-2020` Stockholm,
-IT administratör (deltid)
+#### IT administratör, Datorn i utbildningen (Stiftelsen DiU)
+`2018-2020 (deltid)`
 
 Hanterade och underhöll DiU's websidor och konferensboknings-system. Websidorna bestod mestadels av Wordpress med MySql databaser. Även ansvarig för att lösa allsköns IT-relaterade problem så som certifikathantering, backup och loggar.
 
 _MySql, Linux, PHP, WordPress_
 
-#### Stockholms universitet (Språkstudion)
-
-`2016-2018` Stockholm,
-Systemadministratör/Receptionsarbete (heltid)
+#### Systemadministratör/Receptionsarbete, Språkstudion (Stockholms universitet)
+`2016-2018 (heltid)`
 
 Hantering och underhåll av Språkstudions tekniska utrustning. Administrerade två datasalar i Mac (med JAMF) samt Windowsmiljö. Hanterade även övrig AV utrustning samt gav suport vid disk till studenter och professorer. Byggde en databasapplikation i FileMaker för studentregistrering.
 
